@@ -1,29 +1,36 @@
 h1 {
     text-align: center;
     background-color: chartreuse;
+    font-family: sans-serif;
 }
 
 h2 {
     text-align: center;
     background-color: coral;
+     font-family: sans-serif;
 }
 
 h3 {
     text-align: center;
     background-color: darkred;
+     font-family: sans-serif;
 }
 
 h4 {
     text-align: center;
     background-color: blueviolet;
+     font-family: sans-serif;
 }
 
 h5 {
     text-align: center;
     background-color: blue;
+     font-family: sans-serif;
 }
 
 h6 {
     text-align: center;
     background-color: greenyellow;
+     font-family: sans-serif;
+
 }
